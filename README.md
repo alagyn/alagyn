@@ -20,36 +20,39 @@ always the product of one of two things:
 
 <h2>My Projects</h2>
 
-<p>
+<table style="width:100%;">
 
+<tr>
+<td>
+    
 ### [Sigil](https://github.com/alagyn/Sigil)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 A strongly-typed, object oriented, high-level language.  
 Everything you love about C++ and Python combined into a single package.
 
-</p>
-
-<br/>
-
-<p>
-
-<img src="images/hermes-logo-256.png" width="200" align="right"/>
-
+</td>
+<td>    
+</td>
+</tr>
+<tr>
+<td>
+    
 ### [Hermes](https://github.com/alagyn/Hermes)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 A Context-Free-Grammar parser generator for C++.  
 It's like Flex+Bison but worse.
+</td>
+<td>
+    <img src="images/hermes-logo-256.png" width="200" align="right"/>
+    </td>
+</tr>
 
-</p>
-
-<br/>
-
-<p>
-<img src="images/YikeBotLogoMk2.png" width="200" align="right"/>
-
+<tr>
+<td>
+    
 ### [YikeBot](https://github.com/alagyn/CafeYike)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -57,22 +60,26 @@ It's like Flex+Bison but worse.
 YikeBot is my personal Discord Chatbot with a severe case of scope creep.  
 Originally written in Python, now converted to Java.
 
-</p>
-<br/>
+</td>
+<td>
+<img src="images/YikeBotLogoMk2.png" width="200" align="right"/>
+</td>
+</tr>
 
-<p>
-<img src="images/TwigLogo.png" width="200" align="right">
+<tr>
+<td>
 
 ### [Twig](https://github.com/alagyn/Twig)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Twig is a simple SLF4J backend that dosn't require a PHD to set up.  
-</p>
+</td>
+<td><img src="images/TwigLogo.png" width="200" align="right"></td>
+</tr>
 
-<br/>
-
-<p>
+<tr>
+<td>
 
 ### [py-imgui-redux](https://github.com/alagyn/PyImGui-Redux)
 
@@ -80,30 +87,33 @@ Twig is a simple SLF4J backend that dosn't require a PHD to set up.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Python bindings for the wonderful [Dear ImGui](https://github.com/ocornut/imgui) made with PyBind11
-</p>
+</td>
+<td></td>
+</tr>
 
-<br/>
-
-<p>
+<tr>
+<td>
 
 ### [NodePasta](https://github.com/alagyn/NodePasta)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 A freeform, node based visual scripting framework
-
-</p>
-
-<br/>
-
-<p>
-
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+    
 ### [Controlduino](https://github.com/alagyn/Controlduino)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 An XBox controller emulator for use with non-native-USB Arduinos
-
+</td>
+<td></td>
+</tr>
+</table>
 <br/>
 <br/>
 <br/>
