@@ -49,12 +49,12 @@ It's like Flex+Bison but probably worse.
 <tr>
 <td>
     
-### [YikeBot](https://github.com/alagyn/CafeYike)
+### [CafeYike](https://github.com/alagyn/CafeYike)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-YikeBot is my personal Discord Chatbot with a severe case of scope creep.  
-Originally written in Python, now converted to Java.
+A Java rewrite of my personal Discord Chatbot (YikeBot) that has a severe case of scope creep.  
+Powered by [JDA](https://github.com/discord-jda/JDA)
 
 </td>
 <td>
@@ -69,7 +69,7 @@ Originally written in Python, now converted to Java.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Twig is a simple SLF4J backend that dosn't require a PHD to set up.  
+Twig is a simple [SLF4J](https://www.slf4j.org/) backend that dosn't require a PHD to set up.  
 </td>
 <td><img src="images/TwigLogo.png" width="200" align="right"></td>
 </tr>
