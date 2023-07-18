@@ -3,7 +3,7 @@
 </div>
 
 I'm Ben, your typical mad computer scientist. Graduate of North Carolina State
-University (2022). I am an avid learner and DIY practioner. My projects are almost
+University (2022). I'm an avid learner and DIY practioner. My projects are almost
 always the product of one of two things:
 1) The challenge and learning experience
 2) Spite
@@ -78,6 +78,8 @@ Twig is a simple SLF4J backend that dosn't require a PHD to set up.
 <td><img src="images/TwigLogo.png" width="200" align="right"></td>
 </tr>
 
+
+
 <tr>
 <td>
 
@@ -114,8 +116,6 @@ An XBox controller emulator for use with non-native-USB Arduinos
 <td></td>
 </tr>
 </table>
-<br/>
-<br/>
 <br/>
 
 ---
