@@ -10,13 +10,9 @@ always the product of one of two things:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alagyn&show_icons=true&locale=en&layout=compact&theme=slateorange&hide=html" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alagyn&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
 
 <br>
-
-<!--
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
--->
 
 <h2>My Projects</h2>
 
@@ -43,7 +39,7 @@ Everything you love about C++ and Python combined into a single package.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 A Context-Free-Grammar parser generator for C++.  
-It's like Flex+Bison but worse.
+It's like Flex+Bison but probably worse.
 </td>
 <td>
     <img src="images/hermes-logo-256.png" width="200" align="right"/>
