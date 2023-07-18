@@ -34,11 +34,14 @@ Everything you love about C++ and Python combined into a single package.
 
 <p>
 
+<img src="images/hermes-logo-256.png" width="200" align="right"/>
+
 ### [Hermes](https://github.com/alagyn/Hermes)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-A Context-Free-Grammar parser generator for C++
+A Context-Free-Grammar parser generator for C++.  
+It's like Flex+Bison but worse.
 
 </p>
 
