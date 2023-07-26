@@ -27,7 +27,8 @@ A strongly-typed, object oriented, high-level language.
 Everything you love about C++ and Python combined into a single package.
 
 </td>
-<td>    
+<td>
+    <img src="images/SigilMk7-512.png" width="200" align="center"/>
 </td>
 </tr>
 <tr>
@@ -41,7 +42,7 @@ A Context-Free-Grammar parser generator for C++.
 It's like Flex+Bison but probably worse.
 </td>
 <td>
-    <img src="images/hermes-logo-256.png" width="200" align="right"/>
+    <img src="images/hermes-logo-256.png" width="200" align="center"/>
     </td>
 </tr>
 
@@ -57,7 +58,7 @@ Powered by [JDA](https://github.com/discord-jda/JDA)
 
 </td>
 <td>
-<img src="images/YikeBotLogoMk2.png" width="200" align="right"/>
+<img src="images/YikeBotLogoMk2.png" width="200" align="center"/>
 </td>
 </tr>
 
@@ -70,7 +71,7 @@ Powered by [JDA](https://github.com/discord-jda/JDA)
 
 Twig is a simple [SLF4J](https://www.slf4j.org/) backend that dosn't require a PHD to set up.  
 </td>
-<td><img src="images/TwigLogo.png" width="200" align="right"></td>
+<td><img src="images/TwigLogo.png" width="200" align="center"></td>
 </tr>
 
 
