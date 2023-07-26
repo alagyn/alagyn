@@ -15,12 +15,13 @@ always the product of one of two things:
 
 <h2>My Projects</h2>
 
-<table style="width:100%;">
+<table>
 
 <tr>
 <td>
     
 ### [Sigil](https://github.com/alagyn/Sigil)
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 A strongly-typed, object oriented, high-level language.  
@@ -35,6 +36,7 @@ Everything you love about C++ and Python combined into a single package.
 <td>
     
 ### [Hermes](https://github.com/alagyn/Hermes)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
