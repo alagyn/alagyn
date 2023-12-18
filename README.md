@@ -50,6 +50,20 @@ It's like Flex+Bison but probably worse.
 
 <tr>
 <td>
+
+### [DiamondPack](https://github.com/alagyn/DiamondPack)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+A simple packager for creating distributable Python applications.
+
+</td>
+<td>
+<img src="images/diamondPack.png" width="200" align="right"> 
+</td>
+</tr>
+
+<tr>
+<td>
     
 ### [CafeYike](https://github.com/alagyn/CafeYike)
 
