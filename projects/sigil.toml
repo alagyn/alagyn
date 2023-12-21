@@ -1,0 +1,8 @@
+name = "Sigil"
+url = "https://github.com/alagyn/Sigil"
+langs = ["C++"]
+desc = """
+A strongly-typed, object oriented, high-level language.  
+Everything you love about C++ and Python combined into a single package.
+"""
+logo = "images/SigilMk7-512.png"

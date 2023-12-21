@@ -1,0 +1,8 @@
+name = "py-imgui-redux"
+url = "https://github.com/alagyn/PyImGui-Redux"
+langs = ["Python", "C++"]
+desc = """
+Python bindings for the wonderful [Dear ImGui](https://github.com/ocornut/imgui)
+made with PyBind11
+"""
+logo = ""

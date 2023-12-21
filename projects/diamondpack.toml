@@ -1,0 +1,7 @@
+name = "DiamondPack"
+url = "https://github.com/alagyn/DiamondPack"
+langs = ["Python", "C++"]
+desc = """
+A simple packager for creating distributable Python applications.
+"""
+logo = "images/diamondPack.png"

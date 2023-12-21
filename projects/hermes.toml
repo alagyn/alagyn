@@ -1,0 +1,8 @@
+name = "Hermes"
+url = "https://github.com/alagyn/Hermes"
+langs = ["Python", "C++"]
+desc = """
+A Context-Free-Grammar parser generator for C++.  
+It's like Flex+Bison in a convenient bundle.
+"""
+logo = "images/hermes-logo-256.png"

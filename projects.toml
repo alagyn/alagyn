@@ -1,0 +1,10 @@
+projects = [
+    "diamondpack",
+    "hermes",
+    "twig",
+    "py-imgui-redux",
+    "cafeyike",
+    "sigil",
+    "nodepasta",
+    "controlduino",
+]

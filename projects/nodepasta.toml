@@ -1,0 +1,7 @@
+name = "NodePasta"
+url = "https://github.com/alagyn/NodePasta"
+langs = ["Python"]
+desc = """
+A freeform, node based visual scripting framework
+"""
+logo = ""

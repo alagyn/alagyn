@@ -1,0 +1,7 @@
+name = "Twig"
+url = "https://github.com/alagyn/Twig"
+langs = ["Java"]
+desc = """
+A simple [SLF4J](https://www.slf4j.org/) backend that dosn't require a PHD to set up.
+"""
+logo = "images/TwigLogo.png"

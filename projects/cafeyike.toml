@@ -1,0 +1,12 @@
+name = "CafeYike"
+url = "https://github.com/alagyn/CafeYike"
+langs = ["Java", "JavaScript"]
+otherBadges = [
+    "![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)",
+]
+desc = """
+A Java rewrite of my personal Discord Chatbot (YikeBot)
+that has a severe case of scope creep.  
+Powered by [JDA](https://github.com/discord-jda/JDA)
+"""
+logo = "images/YikeBotLogoMk2.png"

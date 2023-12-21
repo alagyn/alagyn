@@ -1,0 +1,7 @@
+name = "Controlduino"
+url = "https://github.com/alagyn/Controlduino"
+langs = ["C++"]
+desc = """
+An XBox controller emulator for use with non-native-USB Arduinos
+"""
+logo = ""
