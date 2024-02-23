@@ -58,6 +58,7 @@ Python bindings for the wonderful [Dear ImGui](https://github.com/ocornut/imgui)
 made with PyBind11
 
 </td><td>
+<image src="images/pyimgui-logo-512.png" width="200" align="center"/>
 </td></tr>
 </tr><tr><td>
 

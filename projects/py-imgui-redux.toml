@@ -5,4 +5,4 @@ desc = """
 Python bindings for the wonderful [Dear ImGui](https://github.com/ocornut/imgui)
 made with PyBind11
 """
-logo = ""
+logo = "images/pyimgui-logo-512.png"
