@@ -1,8 +1,8 @@
 projects = [
+    "py-imgui-redux",
     "diamondpack",
     "hermes",
     "twig",
-    "py-imgui-redux",
     "cafeyike",
     "sigil",
     "nodepasta",

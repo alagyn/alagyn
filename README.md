@@ -16,6 +16,18 @@ always the product of one of two things:
 <table>
 <tr><td>
 
+### [py-imgui-redux](https://github.com/alagyn/PyImGui-Redux)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+Python bindings for the wonderful [Dear ImGui](https://github.com/ocornut/imgui)
+made with PyBind11
+
+</td><td>
+<image src="images/pyimgui-logo-512.png" width="200" align="center"/>
+</td></tr>
+</tr><tr><td>
+
 ### [DiamondPack](https://github.com/alagyn/DiamondPack)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,18 +59,6 @@ A simple [SLF4J](https://www.slf4j.org/) backend that dosn't require a PHD to se
 
 </td><td>
 <image src="images/TwigLogo.png" width="200" align="center"/>
-</td></tr>
-</tr><tr><td>
-
-### [py-imgui-redux](https://github.com/alagyn/PyImGui-Redux)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-Python bindings for the wonderful [Dear ImGui](https://github.com/ocornut/imgui)
-made with PyBind11
-
-</td><td>
-<image src="images/pyimgui-logo-512.png" width="200" align="center"/>
 </td></tr>
 </tr><tr><td>
 
